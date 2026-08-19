@@ -2,6 +2,8 @@
 
 > 或者说：**为什么我越来越不相信各种"LLM 排行榜"**。
 
+<img width="1877" height="716" alt="image" src="https://github.com/user-attachments/assets/c319c4b0-73b4-4c52-987d-7e50a8384c3d" />
+
 ---
 
 ## 起因
